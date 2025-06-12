@@ -288,6 +288,17 @@ class DirectoryFileManager:
             print(f"{Fore.RED}No matches found.")
 
     def change_directory(self) -> None:
+        """
+        Prompts the user to enter a new directory path and attempts to change
+        the current working directory to that path.
+
+        - Checks if the provided path exists and is a directory.
+        - Updates the internal current_dir attribute upon successful change.
+        - Handles permission and other unexpected errors gracefully.
+
+        Returns:
+            None
+        """
         clear_screen()
         print_manager_name()
 
