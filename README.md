@@ -29,7 +29,7 @@ A simple Python terminal-based Directory and File Manager with essential file sy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dfmanager.git
+git clone https://github.com/bytebitt/DFManager
 ```
 
 2. Change to the project directory
