@@ -1,0 +1,13 @@
+functionality:
+
+- clear terminal
+- print DFManager
+- pwd (print working directory)
+- directory list
+- create file / folder
+- remove file / folder
+- rename file / folder
+- find file / folder in working directory
+- change directory
+- main menu
+
