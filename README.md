@@ -24,8 +24,35 @@ A simple Python terminal-based Directory and File Manager with essential file sy
 - Python 3.6+
 - [colorama](https://pypi.org/project/colorama/)
 
-Install dependencies with:
+## Run the Program
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/dfmanager.git
+```
+
+2. Change to the project directory
+
+```bash
+cd DFManager
+```
+
+3. Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+4. Run DFManager:
+   (Windows)
+
+```bash
+python main.py
+```
+
+(Linux/macOS):
+
+```bash
+python3 main.py
 ```
