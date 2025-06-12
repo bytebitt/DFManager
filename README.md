@@ -45,7 +45,8 @@ pip install -r requirements.txt
 ```
 
 4. Run DFManager:
-   (Windows)
+
+(Windows)
 
 ```bash
 python main.py
